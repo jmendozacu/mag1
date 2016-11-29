@@ -1,0 +1,6 @@
+/media/
+/var/
+app/etc/local.xml
+.idea/
+/downloader/
+.gitignore
